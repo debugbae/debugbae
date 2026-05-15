@@ -2,7 +2,7 @@
 
 I'm an AI builder and program leader with a background in **Solutions Engineering** and **Professional Services** — the kind of person who's been in the room with customers long enough to know which problems are actually worth solving, and technical enough to go build the solution myself.
 
-These days I focus on designing and shipping **AI-powered workflows** that make support, services, and operations teams faster and smarter — without adding headcount.
+These days I focus on designing and shipping **AI-powered workflows** that make support, services, and operations teams faster and smarter.
 
 ---
 
