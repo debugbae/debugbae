@@ -52,7 +52,7 @@ The tools I build reflect that. Every project here is designed to be:
 
 I'm always happy to talk AI tooling, support ops, or prompt engineering strategy.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/romina_salani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rominasalani/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ralmasal7@gmail.com)
 
 ---
